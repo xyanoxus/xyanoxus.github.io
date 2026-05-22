@@ -2,4 +2,5 @@
 
 #### Andrej Karpathy in AI Ascent 2026 talk on Software 3.0
 The question was "What’s still worth learning when intelligence is cheap?" 
-He answered <span style="font-size:2em;">**"You can outsource your thinking, but you can't outsource your understanding."**</span>
+He answered<br>
+<span style="font-size:2em;">**"You can outsource your thinking, but you can't outsource your understanding."**</span>
